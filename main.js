@@ -1,7 +1,10 @@
 const express = require("express");
+const cors = require('cors');
 
 const app = express();
 var port = process.env.PORT || 3000;
+
+app.use(cors());
 
 app.get("/", async (req, res) => {
   res.json({
