@@ -83,10 +83,10 @@ app.get("/", async (req, res) => {
       COMPANY_LOGO_NO_TEXT:
         "https://stage.imagicle.cloud/chat/convai/LogoImagicle-NoTesto.svg",
       BASE_LOGO:
-        "https://stage.imagicle.cloud/chat/convai/LogoConvAI-ConTesto.svg",
+        "https://blipblip.com/wp-content/uploads/2020/02/logotipo.png",
       BASE_LOGO_NO_TEXT:
-        "https://stage.imagicle.cloud/chat/convai/LogoConvAI-NoTesto.svg",
-      COMPANY_NAME: "Imagicle",
+        "https://blipblip.com/wp-content/uploads/2020/02/logotipo.png",
+      COMPANY_NAME: "BlipBlip",
       BRAND_NAME: "Conversational AI",
       COMPANY_SITE_NAME: "imagicle.com",
       COMPANY_SITE_URL:
